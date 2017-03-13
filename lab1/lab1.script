@@ -1,24 +1,0 @@
-命令稿啟動於 2017年03月13日 (週一) 10時27分35秒
-]0;chu@chu-VirtualBox: ~/lab1[01;32mchu@chu-VirtualBox[00m:[01;34m~/lab1[00m$ whiami[K[K[K[Koami;pwd
-chu
-/home/chu/lab1
-]0;chu@chu-VirtualBox: ~/lab1[01;32mchu@chu-VirtualBox[00m:[01;34m~/lab1[00m$ git cong[Kfig -|
-> gi [Kt clone https;[K;//[K[K[K://github.com/ChuChuuu/lab.[K1.git
-fatal: destination path 'lab1' already exists and is not an empty directory.
-error: key does not contain a section: -
-]0;chu@chu-VirtualBox: ~/lab1[01;32mchu@chu-VirtualBox[00m:[01;34m~/lab1[00m$ git config -| git clone https://github.com/ChuChuuu/laab1.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C<ChuChuuu/lab1.git[A]0;chu@chu-VirtualBox: ~/lab1[01;32mchu@chu-VirtualBox[00m:[01;34m~/lab1[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C?/lab1.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/l[1Pab1.git[A]0;chu@chu-VirtualBox: ~/lab1[01;32mchu@chu-VirtualBox[00m:[01;34m~/lab1[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C>/lab1.git
-bash: ChuChuuu: 沒有此一檔案或目錄
-error: key does not contain a section: -
-]0;chu@chu-VirtualBox: ~/lab1[01;32mchu@chu-VirtualBox[00m:[01;34m~/lab1[00m$ git config -| git clone https://github.com/<ChuChuuu>//lab1.git[A]0;chu@chu-VirtualBox: ~/lab1[01;32mchu@chu-VirtualBox[00m:[01;34m~/lab1[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CChuChuuu/la[2Pb1.git[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgti[K[Kit congig[K[K[Kfig -|
-> git clone g[Khttps://github.com/<ChuChuuu>/ab1[K[K[Klab1.git
-bash: ChuChuuu: 沒有此一檔案或目錄
-error: key does not contain a section: -
-]0;chu@chu-VirtualBox: ~/lab1[01;32mchu@chu-VirtualBox[00m:[01;34m~/lab1[00m$ git config -| git clone https://github.com/<ChuChuuu>//lab1.git[A]0;chu@chu-VirtualBox: ~/lab1[01;32mchu@chu-VirtualBox[00m:[01;34m~/lab1[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CChuChuuu/la[2Pb1.git[A]0;chu@chu-VirtualBox: ~/lab1[01;32mchu@chu-VirtualBox[00m:[01;34m~/lab1[00m$ whoami;pwd[K
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit config -| git clone https://github.com/ChuChuuu/laab1.git
-fatal: destination path 'lab1' already exists and is not an empty directory.
-error: key does not contain a section: -
-]0;chu@chu-VirtualBox: ~/lab1[01;32mchu@chu-VirtualBox[00m:[01;34m~/lab1[00m$ -|[K[Kexit
-
-命令稿已於 2017年03月13日 (週一) 10時35分29秒
- 完成
