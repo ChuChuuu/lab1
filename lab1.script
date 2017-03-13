@@ -1,0 +1,12 @@
+命令稿啟動於 2017年03月13日 (週一) 10時48分11秒
+]0;chu@chu-VirtualBox: ~/lab1[01;32mchu@chu-VirtualBox[00m:[01;34m~/lab1[00m$ whoami;pwd
+chu
+/home/chu/lab1
+]0;chu@chu-VirtualBox: ~/lab1[01;32mchu@chu-VirtualBox[00m:[01;34m~/lab1[00m$ git config -|
+> git clone [K http:[Ks://github.com/<>[C[K[KChuChuuu/lab1.c[Kgit
+error: key does not contain a section: -
+fatal: destination path 'lab1' already exists and is not an empty directory.
+]0;chu@chu-VirtualBox: ~/lab1[01;32mchu@chu-VirtualBox[00m:[01;34m~/lab1[00m$ exit
+
+命令稿已於 2017年03月13日 (週一) 10時50分48秒
+ 完成
